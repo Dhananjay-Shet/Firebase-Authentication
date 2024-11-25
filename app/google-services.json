@@ -12,7 +12,12 @@
           "package_name": "com.android.modules"
         }
       },
-      "oauth_client": [],
+      "oauth_client": [
+        {
+          "client_id": "130522298896-2pr6p1te0rr5irg34dl0omlc7ids4cnp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
       "api_key": [
         {
           "current_key": "AIzaSyBjXYwXuVC1fG2p8Oc0Iv2dowprN5FWYYE"
@@ -20,7 +25,12 @@
       ],
       "services": {
         "appinvite_service": {
-          "other_platform_oauth_client": []
+          "other_platform_oauth_client": [
+            {
+              "client_id": "130522298896-2pr6p1te0rr5irg34dl0omlc7ids4cnp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
         }
       }
     }
